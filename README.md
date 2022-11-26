@@ -1,6 +1,6 @@
 # myMaps
 
-This project is inspired by Google Map. It uses the Dijkstra algorithm to find the shortest path from a dummy map. You can get the time needed to reach a destination with different modes of transport.
+This venture is propelled by Google Outline. It employments the Dijkstra calculation to discover the most brief way from a sham outline. You'll get the time required to reach a goal with diverse modes of transport.
 
 ## Installation and Setup
 
