@@ -28,9 +28,9 @@ open link localhost/myMaps
 select and enter any point from src to destination then select the start button the shortest path will be projected.
 
 ```
-<img src="readme-src/start" alt="goku">
-<img src="readme-src/result" alt="goku">
-<img src="readme-src/map" alt="goku">
+<img src="https://github.com/prady8339/myMaps/blob/main/readme-src/start.png" alt="start">
+<img src="https://github.com/prady8339/myMaps/blob/main/readme-src/result.png" alt="result">
+<img src="https://github.com/prady8339/myMaps/blob/main/readme-src/map.png" alt="map">
 
 
 ## Contributing
