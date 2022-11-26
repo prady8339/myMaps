@@ -29,8 +29,8 @@ select and enter any point from src to destination then select the start button 
 
 ```
 <img src="https://github.com/prady8339/myMaps/blob/main/readme-src/start.png" alt="start">
-<img src="https://github.com/prady8339/myMaps/blob/main/readme-src/result.png" alt="result">
-<img src="https://github.com/prady8339/myMaps/blob/main/readme-src/map.png" alt="map">
+<img src="https://github.com/prady8339/myMaps/blob/main/readme-src/result.png" style="height:300px;" alt="result">
+<img src="https://github.com/prady8339/myMaps/blob/main/readme-src/map.png" style="width:300px;"  alt="map">
 
 
 ## Contributing
