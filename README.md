@@ -25,7 +25,8 @@ open link localhost/myMaps
 ## Usage
 
 ```
-select and enter any point from src to destination then select the start button the shortest path will be projected.
+select and enter any point from src to destination then 
+select the start button the shortest path will be projected.
 
 ```
 <img src="https://github.com/prady8339/myMaps/blob/main/readme-src/start.png" alt="start">
